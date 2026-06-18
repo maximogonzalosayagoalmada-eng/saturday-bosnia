@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="herzegbosniasprites.png">
+<SubTexture name="herzegbosniasprites idle0000" x="0" y="0" width="346" height="229" frameX="-60" frameY="-57" frameWidth="585" frameHeight="340" />
+<SubTexture name="herzegbosniasprites left0000" x="346" y="0" width="298" height="229" frameX="-136" frameY="-49" frameWidth="585" frameHeight="340" />
+<SubTexture name="herzegbosniasprites down0000" x="415" y="229" width="195" height="165" frameX="-199" frameY="-99" frameWidth="585" frameHeight="340" />
+<SubTexture name="herzegbosniasprites up0000" x="0" y="229" width="194" height="189" frameX="-164" frameY="-79" frameWidth="585" frameHeight="340" />
+<SubTexture name="herzegbosniasprites right0000" x="194" y="229" width="221" height="185" frameX="-148" frameY="-89" frameWidth="585" frameHeight="340" />
+</TextureAtlas>
